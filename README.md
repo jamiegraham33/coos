@@ -1,2 +1,0 @@
-# coos
-Coos
