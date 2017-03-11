@@ -17,5 +17,8 @@
         "bin/heroku-php-apache2",
         "bin/heroku-php-nginx"
     ],
-    "scripts": { "compile": [ "chmod 750 config" ] }
+    "scripts": { "compile": [ "chmod 750 config" ] },
+    "require": {
+        "php": "^5.6.0"
+    }
 }
